@@ -1,0 +1,10 @@
+HW2_terminal.txt:- the second 2
+HW2_terminal.txt:the second 2 (enter)
+HW2_terminal.txt: 9. Через cat добавить в текстовый файл tf_3.txt строку “the second 2” : 
+HW2_terminal.txt: the second 2 (enter)
+HW2_terminal.txt: 27. Найти строки в файлах где есть комбинация букв “second” в текущей папке
+HW2_terminal.txt: 28. Найти строки в файлах где есть комбинация букв “second” в любом регистре в текущей папке
+HW2_terminal.txt: 29. Найти строки в файлах где есть комбинация букв “second” во всех папках ниже уровнем
+HW2_terminal.txt: 30. Найти только путь и название файла в строках которых есть комбинация букв “second” в текущей папке
+HW2_terminal.txt: 31. Найти все строки во всех файлах где нет комбинации “second”
+HW2_terminal.txt: 32. Найти только название и путь к файлам где нет комбинации “second”
